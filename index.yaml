@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  firstchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-01T05:51:20.267574+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 4e26d65e510755f0bde662dfb2b74622e94edf358d8ad96eaf2b2e2aef551966
+    name: firstchart
+    type: application
+    urls:
+    - https://yassir-ai.github.io/HelmChartRepo/firstchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-01T05:51:20.265517+01:00"
